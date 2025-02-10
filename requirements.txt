@@ -1,7 +1,7 @@
 streamlit==1.25.0          # Core app for building the Streamlit app
 Pillow==9.2.0              # For handling images (project and profile pictures)
 transformers==4.30.0       # For using DistilBERT (Hugging Face library)
-torch==2.0.1               # PyTorch is required to run the model
+torch                      # PyTorch is required to run the model (==2.0.1)
 sentence-transformers==2.2.2  # Optional: For handling sentence embeddings, in case of more complex querying
 pandas==2.0.3              # For potential data manipulation and display in projects
 numpy==1.24.2              # For data manipulation
