@@ -4,6 +4,11 @@ This is my personal profile/portfolio app, designed to showcase my skills and pr
 
 ## How to Run
 
+Just visit https://asuaje-data-scientist-portfolio.streamlit.app/
+
+---------------------------------
+Alternatively:
+
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-username/your_streamlit_profile.git
