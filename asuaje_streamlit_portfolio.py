@@ -49,7 +49,7 @@ elif pages == "Projects":
     
     # Placeholder for projects
     projects = [
-        {"title": "Dr.Mapp", "description": "This Streamlit app allows users to identify the nearest healthcare facilities on a map based on their location (in Argentina).", "link": " https://drmapp.streamlit.app/", "image": "assets/project1_placeholder.jpg"},
+        {"title": "Dr.Mapp", "description": "This Streamlit app allows users to identify the nearest healthcare facilities on a map based on their location (in Argentina).", "link": " https://drmapp.streamlit.app/", "image": "assets/dr_mapp_01.jpg"},
         {"title": "Project 2", "description": "Brief intro to Project 2", "link": "https://github.com/project2", "image": "project2_placeholder.jpg"},
         {"title": "Project 3", "description": "Brief intro to Project 3", "link": "https://github.com/project3", "image": "project3_placeholder.jpg"}
     ]
