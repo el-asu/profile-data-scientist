@@ -17,7 +17,6 @@ def chatbot_placeholder():
 # Introduction Section
 if pages == "Introduction":
     st.title("Welcome to My Personal Profile")
-    st.write("I am a Pharmacist with extensive experience in Biomedical Research and Project Management, currently transitioning into Data Science.")
     
     st.write("""
         In this app, you can explore my projects, the services I offer, and my experience. You can also chat with a chatbot that has been trained to understand my career and help answer your questions.
@@ -40,6 +39,9 @@ My scientific journey commenced in Argentina, where I earned my PhD at the Immun
 
     st.subheader("Chat with me!")
     chatbot_placeholder()
+    st.write("""
+    There is a chatbot coming soon, but not ready yet!
+    """)
 
 # Projects Section
 elif pages == "Projects":
@@ -47,7 +49,7 @@ elif pages == "Projects":
     
     # Placeholder for projects
     projects = [
-        {"title": "Project 1", "description": "Brief intro to Project 1", "link": "https://github.com/project1", "image": "project1_placeholder.jpg"},
+        {"title": "Dr.Mapp", "description": "This Streamlit app allows users to identify the nearest healthcare facilities on a map based on their location (in Argentina).", "link": " https://drmapp.streamlit.app/", "image": "project1_placeholder.jpg"},
         {"title": "Project 2", "description": "Brief intro to Project 2", "link": "https://github.com/project2", "image": "project2_placeholder.jpg"},
         {"title": "Project 3", "description": "Brief intro to Project 3", "link": "https://github.com/project3", "image": "project3_placeholder.jpg"}
     ]
