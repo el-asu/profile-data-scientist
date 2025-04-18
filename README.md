@@ -1,4 +1,4 @@
-# Personal Profile Streamlit App
+# Personal Profile Streamlit App --> WORK IN PROGRESS
 
 This is my personal profile/portfolio app, designed to showcase my skills and projects as a Pharmacist and Data Scientist. It is built using Streamlit and includes sections for projects, services, CV, and more. The app also includes a chatbot trained on my professional data.
 
