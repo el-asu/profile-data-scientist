@@ -25,7 +25,7 @@ if pages == "Introduction":
     
     st.subheader("About me!")
 
-     st.write("""
+    st.write("""
         I’m a Data Scientist and Pharmacist (PhD), my professional journey has been shaped by diverse experiences that aim to enhance business value and contribute to the scientific community through making Data Science more accessible to the non-trained community.
 
 Currently, I serve as a Professor in the Data Science program at the University of the City of Buenos Aires, where I train IT professionals in the fundamentals of Artificial Intelligence, with an emphasis on Symbolic AI (e.g., Expert Systems).
