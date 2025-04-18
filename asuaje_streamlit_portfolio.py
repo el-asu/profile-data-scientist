@@ -23,6 +23,21 @@ if pages == "Introduction":
         In this app, you can explore my projects, the services I offer, and my experience. You can also chat with a chatbot that has been trained to understand my career and help answer your questions.
     """)
     
+    st.subheader("About me!")
+
+     st.write("""
+        I’m a Data Scientist and Pharmacist (PhD), my professional journey has been shaped by diverse experiences that aim to enhance business value and contribute to the scientific community through making Data Science more accessible to the non-trained community.
+
+Currently, I serve as a Professor in the Data Science program at the University of the City of Buenos Aires, where I train IT professionals in the fundamentals of Artificial Intelligence, with an emphasis on Symbolic AI (e.g., Expert Systems).
+
+As a Project Manager at Talento Científico, I support SMEs in finding top-tier scientists for their projects, specializing in the Data Science field. My goal is to match the right talent with each science-based business.
+
+Before this role, I was privileged to be a part of the esteemed Francis Crick Institute in London. My time there involved a postdoctoral position at the Cancer Metabolism Lab, delving into the link between glucose metabolism and tumour growth as well as liver physiology. Subsequently, as a Project Manager within the Academic Training Team, I orchestrated diverse initiatives aimed at enhancing postdocs’ career progression.
+
+My scientific journey commenced in Argentina, where I earned my PhD at the Immunological and Physiopathological Studies Institute (IIFP). My doctoral research focused on deciphering the role of ion channels in regulating pH within tumoral cells. 
+
+    """)
+
     st.subheader("Chat with me!")
     chatbot_placeholder()
 
