@@ -80,7 +80,7 @@ elif pages == "Services":
 elif pages == "CV":
     st.title("Curriculum Vitae")
     st.subheader("Name: Placeholder Name")
-    st.image("profile_picture_placeholder.jpg", width=150)
+    st.image("assets/profile_picture_placeholder.jpg", width=150)
     st.write("Personal Details: [Placeholder for contact information]")
     
     st.subheader("Summary")
