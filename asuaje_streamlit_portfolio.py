@@ -19,7 +19,7 @@ if pages == "Introduction":
     st.title("Welcome to My Personal Profile")
     
     st.write("""
-        In this app, you can explore my projects, the services I offer, and my experience. You can also chat with a chatbot that has been trained to understand my career and help answer your questions.
+        In this app, you can explore my projects, the services I offer, and my experience. You will son be able to interact with a chatbot that has been trained to understand my career and help answer your questions.
     """)
     
     st.subheader("About me!")
