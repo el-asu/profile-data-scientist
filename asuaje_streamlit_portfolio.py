@@ -117,7 +117,7 @@ elif pages == "CV":
     - Publication 2: Placeholder Title
     """)
     
-    st.download_button(label="Download CV", data="cv_placeholder.pdf", file_name="CV.pdf")
+    st.download_button(label="Download CV", data="data/Agustin_Asuaje_PhD-CV-Data_Science.pdf", file_name="CV.pdf")
 
 # References Section
 elif pages == "References":
