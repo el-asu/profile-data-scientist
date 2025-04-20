@@ -51,7 +51,7 @@ elif pages == "Projects":
     projects = [
         {"title": "Dr.Mapp", "description": "This Streamlit app allows users to identify the nearest healthcare facilities on a map based on their location (in Argentina).", "link": " https://drmapp.streamlit.app/", "image": "assets/dr_mapp_01.jpg"},
         {"title": "Non supervised learning of electrophysiological properties", "description": "Unsupervised learning applied to simultaneously interpret the effects of drugs on various electrical parameters of dentate gyrus neurons in laboratory mice.", "link": "https://github.com/el-asu/Electrophysiology_Non-suppervised.git", "image": "assets/Dentate_Gyrus.png"},
-        {"title": "Project 3", "description": "Brief intro to Project 3", "link": "https://github.com/project3", "image": "project3_placeholder.jpg"}
+        {"title": "Project 3", "description": "Brief intro to Project 3", "link": "https://github.com/project3", "image": "assets/project3_placeholder.jpg"}
     ]
     
     for project in projects:
