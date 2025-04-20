@@ -16,10 +16,10 @@ def chatbot_placeholder():
 
 # Introduction Section
 if pages == "Introduction":
-    st.title("Welcome to My Personal Profile")
+    st.title("Welcome to my portfolio")
     
     st.write("""
-        In this app, you can explore my projects, the services I offer, and my experience. You will son be able to interact with a chatbot that has been trained to understand my career and help answer your questions.
+        In this app, you can explore my projects, the services I offer, and my experience. You will son be able to interact with a chatbot that has been trained to answer, on my behalf, your questions related to my career .
     """)
     
     st.subheader("About me!")
@@ -38,7 +38,7 @@ My scientific journey commenced in Argentina, where I earned my PhD at the Immun
     """)
 
     st.subheader("Chat with me!")
-    chatbot_placeholder()
+    # chatbot_placeholder()
     st.write("""
     There is a chatbot coming soon, but not ready yet!
     """)
